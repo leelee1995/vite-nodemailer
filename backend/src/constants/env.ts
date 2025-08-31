@@ -13,6 +13,7 @@ const getEnv = (key: string) => {
 };
 
 export const PORT: number = Number(getEnv("PORT"));
+export const NODE_ENV: string = getEnv("NODE_ENV");
 export const SMTP_HOST: string = getEnv("SMTP_HOST");
 export const SMTP_USER: string = getEnv("SMTP_USER");
 export const SMTP_PASS: string = getEnv("SMTP_PASS");
