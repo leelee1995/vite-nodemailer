@@ -1,0 +1,3 @@
+Nodemailer project (VITE + ReactJS + NodeJS + TailwindCSS + DaisyUI + Zustand + Axios)
+
+This is a demonstration. Will be live on my portfolio soon...
